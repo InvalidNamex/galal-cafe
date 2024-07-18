@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066996917852",
+    "project_id": "galal-f8ca9",
+    "storage_bucket": "galal-f8ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066996917852:android:93bcede983eb9d93b9a899",
+        "android_client_info": {
+          "package_name": "com.softforge.galal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhVTfHj6BvYVmHZ5kys5-jJKV2XfdOOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
